@@ -4,6 +4,7 @@ import java.util.ArrayList;
 
 public class DogfightModel implements IDogfightModel {
 
+	private Sky sky;
 
 	 public IArea getArea(){
 		 
